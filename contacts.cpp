@@ -2,7 +2,7 @@
 #include <vector>
 #include <string>
 #include <fstream>
-const std::string PATH = "";  // DO NOT LEAVE THE PATH VARIABLE EMPTTY!!!
+const std::string PATH = "";  // DO NOT LEAVE THE PATH VARIABLE EMPTY!!!
 struct DATA {
     std::string phone_number;
     std::string name;
